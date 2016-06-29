@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chitchat</string>
+    <string name="login_button_label">Log In</string>
+    <string name="signUp_label">Sign up !</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+</resources>
